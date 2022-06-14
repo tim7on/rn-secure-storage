@@ -3,7 +3,7 @@
 // Definitions by: AkiVer <https://github.com/akiver>
 // TypeScript Version: 2.8
 
-declare module "rn-secure-storage" {
+declare module "rn-secure-storage-next" {
   export enum ACCESSIBLE {
     /**
      * The data in the keychain item cannot be accessed after a restart until the device
